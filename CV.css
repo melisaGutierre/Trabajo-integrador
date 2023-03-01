@@ -1,0 +1,102 @@
+*{ box-sizing: border-box;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    border: 10px solid snow;
+    padding: 50px;
+    font-weight: 50px;
+    margin-top: 30px;
+    margin-bottom: initial;
+    margin-left: 280px;
+    margin-right: 170px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-weight: bold;
+    color:salmon;
+
+}
+h2 { 
+    font-size: 25px;
+    padding: 50px;
+    margin-top: -20px;
+    margin-left: 290px;
+    margin-right: 170px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-weight: normal;
+    color: salmon;
+}
+
+img {
+    margin-top: -130px;
+    margin-bottom: 10px;
+    margin-left: 70%;
+    margin-right: auto;
+    padding: 50px;
+    padding-left: initial;
+    padding-right: initial;
+    padding-bottom: 1px;
+    padding-top: initial;
+}
+p  {
+    margin-top: -8%;
+    margin-left: 298px;
+    margin-bottom: auto;
+    margin-right: 30%;
+    padding: initial;
+    padding-left: initial;
+    padding-right: initial;
+    padding-bottom: initial;
+    padding-top: initial;
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+}
+p1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+    margin-left: 298px ;
+    color: salmon;
+    font-weight: bold;
+    
+}
+
+h3 {
+    font-size: x-large;
+    margin-top: 35px;
+    margin-bottom: auto;
+    margin-left: 300px;
+    margin-right: auto;
+    padding: initial;
+    padding-left:initial;
+    padding-right: initial;
+    padding-top: initial;
+    padding-bottom: initial;
+    color: salmon;
+    font-weight: normal;
+
+}
+li {
+    margin-top: 10px;
+    margin-bottom: auto;
+    margin-left: 310px;
+    margin-right: 20%;
+    padding: initial;
+    padding-left:initial;
+    padding-right: initial;
+    padding-top: initial;
+    padding-bottom: initial;
+    color: black;
+    font-weight: normal;
+    font-family:'Roboto', sans-serif;
+
+}
+button {
+    margin-right:50%;
+
+}
